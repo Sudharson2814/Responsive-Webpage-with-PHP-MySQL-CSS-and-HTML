@@ -15,7 +15,7 @@ This project is a responsive webpage that fetches product information such as na
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repository.git](https://github.com/Sudharson2814/Responsive-Webpage-with-PHP-MySQL-CSS-and-HTML)
+   git clone (https://github.com/Sudharson2814/Responsive-Webpage-with-PHP-MySQL-CSS-and-HTML)
    ```
 
 2. **Database Configuration:**
@@ -33,7 +33,7 @@ This project is a responsive webpage that fetches product information such as na
 ## Author
 
 - **Sudharson**
-  - GitHub: [github.com/sudharson]([https://github.com/sudharson](https://github.com/Sudharson2814))
+  - GitHub: [https://github.com/Sudharson2814]
 
 ## License
 
