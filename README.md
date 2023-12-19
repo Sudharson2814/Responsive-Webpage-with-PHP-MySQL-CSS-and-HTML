@@ -27,7 +27,7 @@ This project is a responsive webpage that fetches product information such as na
    - Access the webpage through your browser.
 
 4. **Customization:**
-   - Customize the styling in `styles.css` to match your preferred aesthetic.
+   - Customize the styling in `style.css` to match your preferred aesthetic.
    - Modify PHP scripts (`index.php`) if additional functionality or customization is required.
 
 ## Author
